@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+📁 Portfolio Personal
+<div align="center">
+https://img.shields.io/badge/%F0%9F%9A%80-Portfolio%2520Personal-blue?style=for-the-badge
+https://img.shields.io/badge/%E2%9C%85-En%2520L%C3%ADnea-brightgreen?style=for-the-badge
 
-## Getting Started
+Visita el sitio: portfolio-rosa-nunez.vercel.app
 
-First, run the development server:
+</div>
+📖 Descripción
+Mi portfolio personal desarrollado para mostrar mi trabajo, habilidades y experiencia profesional. Es una ventana digital donde puedes conocer más sobre mí y mis proyectos.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+✨ Características Principales
+🎨 Diseño Moderno - Interfaz limpia y profesional
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📱 Totalmente Responsive - Optimizado para todos los dispositivos
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+💼 Showcase de Proyectos - Galería de mis trabajos destacados
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📞 Sección de Contacto - Fácil acceso para colaboraciones
 
-## Learn More
+🔮 Próximos Proyectos - Preview de lo que viene en el futuro
 
-To learn more about Next.js, take a look at the following resources:
+⚡ Rendimiento Optimizado - Carga rápida y experiencia fluida
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🛠️ Tecnologías Utilizadas
+Frontend: HTML5, CSS3, JavaScript
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Framework: [Especificar si usas React, Vue, etc.]
 
-## Deploy on Vercel
+Estilos: [Especificar si usas Tailwind, Bootstrap, etc.]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Deploy: Vercel
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Otros: [Agregar otras tecnologías relevantes]
+
+🚀 Demo en Vivo
+Puedes ver el portfolio funcionando aquí:
+
+🌐 https://portfolio-rosa-nunez.vercel.app/
+📞 Contacto
+¿Tienes un proyecto en mente? ¡Me encantaría conversar contigo!
+
+📧 Email: [tu-email@ejemplo.com]
+
+💼 LinkedIn: [tu-linkedin]
+
+🐙 GitHub: [tu-usuario-github]
+
+🌐 Sitio Web: https://portfolio-rosa-nunez.vercel.app/
+
+📋 Próximas Actualizaciones
+Nuevos proyectos en desarrollo
+
+Mejoras en la experiencia de usuario
+
+Blog integrado
+
+Sección de testimonios
+
+<div align="center">
